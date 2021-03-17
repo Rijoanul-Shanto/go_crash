@@ -6,13 +6,10 @@ const PI = float32(3.1415)
 
 func main() {
 	// var name = "Robert Junior"
-	name := "Robert Junior"
-
 	// var age = 26
-	age := 26
-
 	// var isHuman = true
-	isHuman := true
+
+	name, age, isHuman := "Robert Junior", 25, true
 
 	name += " #"
 	age = 25
