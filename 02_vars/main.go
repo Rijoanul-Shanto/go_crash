@@ -2,12 +2,12 @@ package main
 
 import "fmt"
 
+const PI = 3.1415
+
 func main() {
 	var name = "Robert Junior"
 	var age = 26
 	var isHuman = true
-
-	const PI = 3.1415
 
 	name += " #"
 	age = 25
