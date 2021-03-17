@@ -5,9 +5,14 @@ import "fmt"
 const PI = 3.1415
 
 func main() {
-	var name = "Robert Junior"
-	var age = 26
-	var isHuman = true
+	// var name = "Robert Junior"
+	name := "Robert Junior"
+
+	// var age = 26
+	age := 26
+
+	// var isHuman = true
+	isHuman := true
 
 	name += " #"
 	age = 25
