@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-const PI = 3.1415
+const PI = float32(3.1415)
 
 func main() {
 	// var name = "Robert Junior"
